@@ -22,6 +22,10 @@ Research workspace for:
 
 ## HANS-Net (segmentation)
 
+<p align="center">
+  <img src="figures\HANSNet.jpg" width="700">
+</p>
+
 ### What it is
 `HANSNet/model.py` implements a U-Net style segmentation model with:
 - **Wavelet decomposition (Haar DWT)** for multi-frequency features
